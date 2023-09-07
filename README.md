@@ -17,5 +17,7 @@ My newsletter. A curated list of resources I find online. Build yours with [berk
 
 ## 💾 Archive
 Max 10 elements are listed here.
+- [Working with Gerrit: An example (Gerrit)](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough.html) - 2023-03-07 `article`
+  > Gerrit is a code review tool. This walkthrough explains the lifecycle of a change over gerrit
 - [kotlin-ddd-sample](https://github.com/Creditas/kotlin-ddd-sample) - 2022-12-15 `repository`
   > A DDD sample in Kotlin
