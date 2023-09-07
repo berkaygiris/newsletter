@@ -1,5 +1,5 @@
 # newsletter 📰
-Sources that I see as important.
+Sources that I see as important. Build yours with [berkaygiris/news](https://github.com/berkaygiris/news)
 
 ## 📆 2023-09
 - [What Are Nits? (Graphite)](https://graphite.dev/blog/what-are-nits) - 2023-09-06 `article`
