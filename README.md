@@ -2,6 +2,8 @@
 My newsletter. A curated list of resources I find online. Build yours with [berkaygiris/news](https://github.com/berkaygiris/news)
 
 ## 📆 2023-09
+- [Conventional Comments](https://conventionalcomments.org) - 2023-09-08 `article`
+  > This convention aims to provide efficiency and clearance. A bookmark to check often.
 - [What Are Nits? (Graphite)](https://graphite.dev/blog/what-are-nits) - 2023-09-06 `article`
   > Some PR comments are inconsistent or inefficient. It aims to define these and discusses how to detect them.
 - [SLIs SLAs and SLOs (Google)](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos) - 2023-09-05 `article`
