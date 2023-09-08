@@ -4,6 +4,8 @@ My newsletter. A curated list of resources I find online. Build yours with [berk
 ## 📆 2023-09
 - [Conventional Comments](https://conventionalcomments.org) - 2023-09-08 `article`
   > This convention aims to provide efficiency and clearance. A bookmark to check often.
+- [Bun is released (bun.sh)](https://bun.sh/blog/bun-v1.0) - 2023-09-08 `website`
+  > Data shows bun is much more faster than npx and other package managers. It's an all in one toolkit
 - [What Are Nits? (Graphite)](https://graphite.dev/blog/what-are-nits) - 2023-09-06 `article`
   > Some PR comments are inconsistent or inefficient. It aims to define these and discusses how to detect them.
 - [SLIs SLAs and SLOs (Google)](https://cloud.google.com/blog/products/devops-sre/sre-fundamentals-slis-slas-and-slos) - 2023-09-05 `article`
